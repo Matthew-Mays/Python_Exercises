@@ -1,0 +1,1 @@
+This folder will be a respository for all of my exercises for Python.
